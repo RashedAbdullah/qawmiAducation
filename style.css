@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@500&display=swap');
+
+body {
+    font-family: 'Noto Serif Bengali', serif;
+    background-image: url(./bgqawmi.jpg);
+    border-image-width: cover;
+}
+
+
+
+.fa-solid {
+    font-size: 25px;
+    margin: 5px;
+}
+.margining {
+    margin-left: 300px;
+}
+
+
+
+.me-2 {
+    width: 500px;
+}
+a{
+    text-decoration: none;
+}
