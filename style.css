@@ -25,9 +25,10 @@ a{
     text-decoration: none;
 }
 
-.textalign {
+/* .textalign {
     text-align: center;
-}
+    font-size: 200px;
+} */
 
 footer p {
     font-size: 12px;
