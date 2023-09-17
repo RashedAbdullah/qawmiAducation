@@ -2,8 +2,24 @@
 
 body {
     font-family: 'Noto Serif Bengali', serif;
-    background-image: url(./bgqawmi.jpg);
-    border-image-width: cover;
+    /* background-image: url(./bgsecond.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+.heighting {
+    height: 65px;
+}
+
+.lightColor {
+    color: white;
+}
+
+.lightColor div p a {
+    color: white;
+}
+
+.cntrlwith {
+    width: 300px;
 }
 
 
@@ -11,6 +27,7 @@ body {
 .fa-solid {
     font-size: 25px;
     margin: 5px;
+    color:aliceblue
 }
 .margining {
     margin-left: 300px;
@@ -25,6 +42,28 @@ a{
     text-decoration: none;
 }
 
+/* .textalign {
+    text-align: center;
+    font-size: 200px;
+} */
+
+.note {
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    color: white;
+}
+
 footer p {
     font-size: 12px;
+    /* background: transparent; */
+}
+
+footer a {
+    font-size: 17px;
+    color: white;
 }
